@@ -210,6 +210,6 @@ Click **GCP**, and answer each question.</br>
 ![h](https://user-images.githubusercontent.com/73010204/142608491-3662aa2f-10cb-41d9-a2a3-45429a64f9f7.png)
 ## Congratulations!
 You have created a Cloud Storage bucket and written code to store uploaded file data into Cloud Storage.
-## Referenence
+## Reference
 **Google Cloud Fundamentals: Getting Started With Application Development** course
 https://www.coursera.org/learn/getting-started-app-development/home/welcome
